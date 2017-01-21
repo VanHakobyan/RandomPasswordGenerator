@@ -1,5 +1,8 @@
 # Random Password Generator
 #### Random password generator using class Random
+<p align="center">
+<img src="https://www.newton.ac.uk/files/covers/968361.jpg" style="width:442px;height:216px;">
+</p>
 
 ```csharp
 string password = passRandom.RanPass(6);
